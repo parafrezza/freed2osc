@@ -1,6 +1,6 @@
 {
     "receivingIP"     : "127.0.0.1",
-    "receivingPort"   : 1113,
+    "incomingPort"    : 1113,
     "OSCSendingIP"    : "192.168.10.255",
     "OSCSendingPort"  : 9200,
     "OSCLocalPORT"    : 57121,
