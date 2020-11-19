@@ -4,7 +4,7 @@
   "description": "translate freed protocol to OSC",
   "main": "./lib/index.js",
   "bin": {
-    "freed2OSC": "./index.js"
+    "freed2OSC": "./bin/freed2OSC.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
