@@ -1,6 +1,7 @@
 {
-    "receivingIP":   "127.0.0.1",
+    "receivingIP"  : "127.0.0.1",
     "receivingPort": 1113,
     "sendingIP"    : "192.168.10.255",
-    "sendingPort"  : 9200
+    "sendingPort"  : 9200,
+    "debug"        : true
 }
