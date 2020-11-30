@@ -1,6 +1,6 @@
 {
-  "name": "freed2OSC",
-  "version": "1.0.0",
+  "name": "freed2osc",
+  "version": "1.0.1",
   "description": "translate freed protocol to OSC",
   "main": "./lib/index.js",
   "bin": {
