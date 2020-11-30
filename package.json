@@ -12,6 +12,9 @@
   "author": "rf",
   "license": "(ISC OR GPL-3.0)",
   "dependencies": {
-    "osc": "^2.4.1"
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "osc": "^2.4.1",
+    "yargs": "^13.2.4"
   }
 }
