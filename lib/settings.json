@@ -1,8 +1,7 @@
-{
-    "receivingIP"     : "127.0.0.1",
-    "incomingPort"    : 1113,
-    "OSCSendingIP"    : "192.168.10.255",
-    "OSCSendingPort"  : 9200,
-    "OSCLocalPORT"    : 57121,
-    "DEBUG"           : true
+{"receivingIP":"192.168.10.160",
+  "incomingPort":1115,
+  "OSCLocalPort":56789,
+  "OSCSendingIP":"192.168.10.255",
+  "OSCSendingPort":9200,
+  "DEBUG":true
 }
