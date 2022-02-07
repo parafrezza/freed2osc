@@ -1,5 +1,5 @@
-{"receivingIP":"192.168.10.160",
-  "incomingPort":1115,
+{"receivingIP":"192.168.10.105",
+  "incomingPort":6000,
   "OSCLocalPort":56789,
   "OSCSendingIP":"192.168.10.255",
   "OSCSendingPort":9200,
